@@ -1,33 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset 
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+<!-- index -->
 <url>
-<loc>https://m2-company.netlify.app/</loc>
-<lastmod>2025-07-04T09:30:04+00:00</lastmod>
-<priority>1.00</priority>
+  <loc>https://we-are-m2.netlify.app/</loc>
+  <lastmod>2026-04-15</lastmod>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://we-are-m2.netlify.app/" />
+  <xhtml:link rel="alternate" hreflang="uk" href="https://we-are-m2.netlify.app/uk/" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://we-are-m2.netlify.app/ru/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://we-are-m2.netlify.app/en/" />
 </url>
+
+<!-- about -->
 <url>
-<loc>https://m2-company.netlify.app/contacts</loc>
-<lastmod>2025-07-04T09:30:04+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://we-are-m2.netlify.app/about</loc>
+  <lastmod>2026-04-15</lastmod>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://we-are-m2.netlify.app/services" />
+  <xhtml:link rel="alternate" hreflang="uk" href="https://we-are-m2.netlify.app/uk/services" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://we-are-m2.netlify.app/ru/services" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://we-are-m2.netlify.app/en/services" />
 </url>
+
+<!-- services -->
 <url>
-<loc>https://m2-company.netlify.app/about</loc>
-<lastmod>2025-07-04T09:30:04+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://we-are-m2.netlify.app/services</loc>
+  <lastmod>2026-04-15</lastmod>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://we-are-m2.netlify.app/services" />
+  <xhtml:link rel="alternate" hreflang="uk" href="https://we-are-m2.netlify.app/uk/services" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://we-are-m2.netlify.app/ru/services" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://we-are-m2.netlify.app/en/services" />
 </url>
+
+<!-- portfolio -->
 <url>
-<loc>https://m2-company.netlify.app/services</loc>
-<lastmod>2025-07-04T09:30:04+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://we-are-m2.netlify.app/portfolio</loc>
+  <lastmod>2026-04-15</lastmod>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://we-are-m2.netlify.app/services" />
+  <xhtml:link rel="alternate" hreflang="uk" href="https://we-are-m2.netlify.app/uk/services" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://we-are-m2.netlify.app/ru/services" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://we-are-m2.netlify.app/en/services" />
 </url>
+
+<!-- prices -->
 <url>
-<loc>https://m2-company.netlify.app/portfolio</loc>
-<lastmod>2025-07-04T09:30:04+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://we-are-m2.netlify.app/prices</loc>
+  <lastmod>2026-04-15</lastmod>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://we-are-m2.netlify.app/services" />
+  <xhtml:link rel="alternate" hreflang="uk" href="https://we-are-m2.netlify.app/uk/services" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://we-are-m2.netlify.app/ru/services" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://we-are-m2.netlify.app/en/services" />
 </url>
+
+<!-- contacts -->
 <url>
-<loc>https://m2-company.netlify.app/prices</loc>
-<lastmod>2025-07-04T09:30:04+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://we-are-m2.netlify.app/contacts</loc>
+  <lastmod>2026-04-15</lastmod>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://we-are-m2.netlify.app/services" />
+  <xhtml:link rel="alternate" hreflang="uk" href="https://we-are-m2.netlify.app/uk/services" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://we-are-m2.netlify.app/ru/services" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://we-are-m2.netlify.app/en/services" />
 </url>
+
 </urlset>
