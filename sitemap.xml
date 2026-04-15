@@ -17,10 +17,10 @@ xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
   <loc>https://we-are-m2.netlify.app/about</loc>
   <lastmod>2026-04-15</lastmod>
-  <xhtml:link rel="alternate" hreflang="pl" href="https://we-are-m2.netlify.app/services" />
-  <xhtml:link rel="alternate" hreflang="uk" href="https://we-are-m2.netlify.app/uk/services" />
-  <xhtml:link rel="alternate" hreflang="ru" href="https://we-are-m2.netlify.app/ru/services" />
-  <xhtml:link rel="alternate" hreflang="en" href="https://we-are-m2.netlify.app/en/services" />
+  <xhtml:link rel="alternate" hreflang="pl" href="https://we-are-m2.netlify.app/about" />
+  <xhtml:link rel="alternate" hreflang="uk" href="https://we-are-m2.netlify.app/uk/about" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://we-are-m2.netlify.app/ru/about" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://we-are-m2.netlify.app/en/about" />
 </url>
 
 <!-- services -->
@@ -37,30 +37,30 @@ xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
   <loc>https://we-are-m2.netlify.app/portfolio</loc>
   <lastmod>2026-04-15</lastmod>
-  <xhtml:link rel="alternate" hreflang="pl" href="https://we-are-m2.netlify.app/services" />
-  <xhtml:link rel="alternate" hreflang="uk" href="https://we-are-m2.netlify.app/uk/services" />
-  <xhtml:link rel="alternate" hreflang="ru" href="https://we-are-m2.netlify.app/ru/services" />
-  <xhtml:link rel="alternate" hreflang="en" href="https://we-are-m2.netlify.app/en/services" />
+  <xhtml:link rel="alternate" hreflang="pl" href="https://we-are-m2.netlify.app/portfolio" />
+  <xhtml:link rel="alternate" hreflang="uk" href="https://we-are-m2.netlify.app/uk/portfolio" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://we-are-m2.netlify.app/ru/portfolio" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://we-are-m2.netlify.app/en/portfolio" />
 </url>
 
 <!-- prices -->
 <url>
   <loc>https://we-are-m2.netlify.app/prices</loc>
   <lastmod>2026-04-15</lastmod>
-  <xhtml:link rel="alternate" hreflang="pl" href="https://we-are-m2.netlify.app/services" />
-  <xhtml:link rel="alternate" hreflang="uk" href="https://we-are-m2.netlify.app/uk/services" />
-  <xhtml:link rel="alternate" hreflang="ru" href="https://we-are-m2.netlify.app/ru/services" />
-  <xhtml:link rel="alternate" hreflang="en" href="https://we-are-m2.netlify.app/en/services" />
+  <xhtml:link rel="alternate" hreflang="pl" href="https://we-are-m2.netlify.app/prices" />
+  <xhtml:link rel="alternate" hreflang="uk" href="https://we-are-m2.netlify.app/uk/prices" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://we-are-m2.netlify.app/ru/prices" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://we-are-m2.netlify.app/en/prices" />
 </url>
 
 <!-- contacts -->
 <url>
   <loc>https://we-are-m2.netlify.app/contacts</loc>
   <lastmod>2026-04-15</lastmod>
-  <xhtml:link rel="alternate" hreflang="pl" href="https://we-are-m2.netlify.app/services" />
-  <xhtml:link rel="alternate" hreflang="uk" href="https://we-are-m2.netlify.app/uk/services" />
-  <xhtml:link rel="alternate" hreflang="ru" href="https://we-are-m2.netlify.app/ru/services" />
-  <xhtml:link rel="alternate" hreflang="en" href="https://we-are-m2.netlify.app/en/services" />
+  <xhtml:link rel="alternate" hreflang="pl" href="https://we-are-m2.netlify.app/contacts" />
+  <xhtml:link rel="alternate" hreflang="uk" href="https://we-are-m2.netlify.app/uk/contacts" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://we-are-m2.netlify.app/ru/contacts" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://we-are-m2.netlify.app/en/contacts" />
 </url>
 
 </urlset>
